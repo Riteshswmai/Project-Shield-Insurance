@@ -12,7 +12,7 @@ The objective of this pilot project is to conduct a thorough examination of cust
 - **Database**- MS Excel 
 - **BI Tool**- Power BI 
 
-### LinkedIn post : ()
+### LinkedIn post : (https://www.linkedin.com/feed/update/urn:li:ugcPost:7259840724060250112/)
 ### Presentation link : (https://drive.google.com/file/d/1TkmdApBXeniDI3ub0j2Q7YHctxkEqOkk/view?usp=sharing)
 ### Dashboard file : (https://drive.google.com/file/d/1wO_mpwdtVv1lrrryxaWAnhA3C1jVw_gH/view?usp=sharing)
 
