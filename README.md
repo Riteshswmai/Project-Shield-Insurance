@@ -14,7 +14,7 @@ The objective of this pilot project is to conduct a thorough examination of cust
 
 ### LinkedIn post : (https://www.linkedin.com/feed/update/urn:li:ugcPost:7259840724060250112/)
 ### Presentation link : (https://drive.google.com/file/d/1TkmdApBXeniDI3ub0j2Q7YHctxkEqOkk/view?usp=sharing)
-### Dashboard file : (https://drive.google.com/file/d/1wO_mpwdtVv1lrrryxaWAnhA3C1jVw_gH/view?usp=sharing)
+### Dashboard file : (https://app.powerbi.com/view?r=eyJrIjoiZTcxZWIwOWUtNTZkNy00NGE4LTkyYjQtM2E2Yzg1NGM0M2EyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Key Insights : 
 
